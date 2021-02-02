@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/golden-hd_thumb_ck7b94mi.png" group-title="Phoenix´Dreams TV",GOLDEN
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/golden-hd_thumb_ck7b94mi.png" group-title="TV PREMIUM 2",GOLDEN
 https://blackghost.live/play/tlvall-202.php?c=166&f=.m2u8
 #EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/golden-edge_thumb_qyfxk4tf.png" group-title="TV PREMIUM 2",Golden EDGE
 https://blackghost.live/play/tlvall-202.php?c=169&f=.m2u8
